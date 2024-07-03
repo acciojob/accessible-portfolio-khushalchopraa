@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+ul{
+	display: flex;
+   justify-content: space-between;	
+	gap: 10px;
+	list-style: none;
+	text-decoration: none;
+	background-color: lightcyan;
+	font-size: 30px;
+}
+.footer{
+background-color: lightgoldenrodyellow;
+	font-size: 30px;
+}
+#about{
+	display: flex;
+	align-content: center;
+	margin-left: 180px;
+}
